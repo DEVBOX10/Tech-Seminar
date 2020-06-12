@@ -1,0 +1,6 @@
+Session ID: 77794
+Session Code: PRE09
+Session Title: Microsoft Edge with Internet Explorer Mode
+Session Description: With the release of Internet Explorer mode, Microsoft Edge will support modern sites and legacy web apps in a single web browser. In this video, Fred Pullen explains enterprise web app compatibility and gives a high-level overview of IE mode management.
+
+Session Time: 

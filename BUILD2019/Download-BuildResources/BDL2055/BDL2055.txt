@@ -1,0 +1,5 @@
+Session ID: 77560
+Session Code: BDL2055
+Session Title: Bringing the Heat to Azure
+Session Description: The Miami Heat are no strangers to success on the court having won the NBA Championship 3 times. In this session you will learn how they have parlayed that on court success to the cloud. Find out how they have leveraged their data and Azure to increase efficiency, reduce costs, and increased profits.
+Session Time: 2019-05-07T02:10:00+00:00
